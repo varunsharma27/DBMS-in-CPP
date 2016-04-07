@@ -1,0 +1,11 @@
+<<t>>
+type
+qq number, ww varchar, ee date, rr float
+45, "Go oo gl e", "3-5-2007", 67.683
+1, "Gogo", "03-05-07", 67
+1, "varun", "3-5-07", 67.45
+123, "jojo", "23-11-1994", 67.45
+125, "Amity University", "12-9-2006", 46.32
+35, "Varun Sharma", "3-4-14", 99.99
+2, "H", "23-11-1994", 3.5
+>>t<<
