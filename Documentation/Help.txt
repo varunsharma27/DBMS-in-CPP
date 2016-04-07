@@ -1,1 +1,11 @@
+All the syntax is checked in functions.h, 
+keywords.h contains all the keyword functions like createTable(), createDatabase(), insert() etc. These functions are called if the syntax matches in functions.h
 
+commonf.h contains all the useful common functions which the other functions need, as well as a class named date which holds the info for a date (also contains string to date conversion copy constructors, relational operators, etc)
+
+I've added comments before most functions on what they do and how.
+
+I've also corrected some errors with the date class, now insertion works flawlessly.
+
+I've attached a file named Varun. It is a database file (database name: varun). It contains one table (named "type").
+it contains 8 rows, one for the attribute names and types, and 7 tuples which store data. You can insert as many as you like (there is a limit though, but it is really large.. million+)
